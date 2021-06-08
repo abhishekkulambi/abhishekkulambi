@@ -1,6 +1,6 @@
 ### Hi there I'm Abhishek 👋 
 
-## I'm a Developer, Python and ML Aspirant  
+## I'm a Python Developer & ML Aspirant  
 
 <!--
 **abhishekkulambi/abhishekkulambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
