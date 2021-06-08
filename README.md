@@ -10,13 +10,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 💬 Ask me about ...
 - 🤔 I’m looking for help with 
+- 📫 How to reach me: 
 -->          
 
 - 🔭 I’m currently working on Python & Django, Coding skills
-- 🌱 I’m currently learning ...Django, Backend Developement, Computer vision 
+- 🌱 I’m currently learning Django, Backend Web Developement, Computer vision 
 - ⚡ Fun fact:I love PC games & cooking
 - 🎸 Would love: To play football
-- 📫 How to reach me: 
+
 
 <br/>
 <br/>
