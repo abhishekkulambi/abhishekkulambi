@@ -1,6 +1,6 @@
-### Hi there I'm Abhishek 👋 
+### Hi I'm Abhishek 👋 
 
-## I'm a Python Developer & ML Aspirant  
+## I'm Python Developer & ML Aspirant  
 
 <!--
 **abhishekkulambi/abhishekkulambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->          
 
 - 🔭 I’m currently working on Python & Django, Coding skills
-- 🌱 I’m currently learning Django, Backend Web Developement, Computer vision 
-- ⚡ Fun fact:I love PC games & cooking
-- 🎸 Would love: To play football
+- 🌱 I’m currently learning Everything 
+- ⚡ Fun fact:I love cooking & dancing
+- 🎸 Would love: To play football 
 
 
 <br/>
