@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 -->          
 
-- 🔭 I’m currently working on Python & Django, Coding skills
+- 🔭 I’m currently working on to improve my coding skills
 - 🌱 I’m currently learning Everything 
 - ⚡ Fun fact:I love cooking & dancing
 - 🎸 Would love: To play football 
